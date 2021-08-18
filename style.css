@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+/* font-family: 'Roboto', sans-serif; */
+@import url('https://fonts.googleapis.com/css2?family=Cedarville+Cursive&display=swap');
+/* font-family: 'Cedarville Cursive', cursive; */
+
+/* 
+font-family: 'Itim', cursive;
+font-family: 'Merienda', cursive; 
+font-family: 'Yellowtail', cursive;
+font-family: 'Pacifico', cursive;
+font-family: 'Permanent Marker', cursive;
+font-family: 'Mali', cursive;
+*/
+
+
+* ::selection{
+  background: none;
+}
+div{
+  text-align: center;
+  background-color: #bb0c0c;
+  color:#e9e4e0;
+  font-family: 'Pacifico', cursive;
+  font-weight: 400;
+  border-radius: 20px;
+  padding: 1em;
+  margin: 3%;
+  font-size: 40px;
+
+
+}
+h1{
+  text-align:end;
+  background-color: #2f8662;
+  color:#e9e4e0;
+  font-family: 'Pacifico', cursive;
+  font-weight: 400;
+  border-radius: 20px;
+  padding: 2em;
+  margin: 3%;
+}
+h2{
+  text-align:justify;
+  background-color: #0b88ee;
+color:#00fcfc;
+font-family: 'Cedarville Cursive', cursive;
+font-weight: 700;
+border-radius: 10%;
+padding: 2em;
+margin: 3%;
+}
+h3{
+  text-align:right;
+  background-color: #6d126d;
+  color:ghostwhite;
+  font-family: 'Merienda', cursive; 
+  font-weight: 400;
+  border-radius: 80px;
+  padding: 2em;
+  margin: 3%;
+}
+h4{
+  text-align:center;
+  background-color: #eeb108;
+  color:ghostwhite;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  border-radius: 90%;
+  padding: 2em;
+  margin: 3%;
+  
+}
+h5{
+  background-color: #0ce7dc;
+  color:#f60909;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700;
+  border-radius: 200px;
+  padding: 2em;
+  margin: 3%;
+}
+h6{
+  text-align:right;
+  background-color: #d4d11f;
+  color:rgb(14, 14, 197);
+  font-family: 'Mali', cursive;
+  font-weight: 400;
+  border-radius: 10%;
+  padding: 2em;
+  margin: 3%;
+}
+
+span{
+font-size: 20px;
+}
